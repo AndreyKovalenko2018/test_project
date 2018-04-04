@@ -1,7 +1,7 @@
-test p
-test pp
-test ppp
-test pppp
-test ppp
-test pp
-test p
+test pd
+test ppd
+test pppd
+test ppppd
+test pppd
+test ppd
+test pd
