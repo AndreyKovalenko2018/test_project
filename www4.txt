@@ -1,3 +1,4 @@
 num=input((str('Enter number: ')))
 Total=int(num[0])+int(num[1])+int(num[2])+int(num[0])
 print('Total::', Total)
+
