@@ -1,0 +1,24 @@
+print('b=100')
+print('a=50')
+print('n=?')
+b = 100
+a = 50
+n = int(input("Input number 'n':  "))
+if n == 100:
+    b = n + a
+if n > 100:
+    b = n * a
+if n < 100:
+    b = n * a
+print ('Result:')
+print(b)
+
+
+
+a = int(input())
+if a < -5:
+    print('Low')
+elif -5 <= a <= 5:
+    print('Mid')
+else:
+    print('High')
